@@ -14,4 +14,7 @@ for i in xrange(91):
 		plt.clim(0,1)
 		plt.colorbar(orientation='vertical')
 		plt.savefig(('heat_%s.jpg' % i))
+
 #		plt.show()
+
+	
